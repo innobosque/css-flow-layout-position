@@ -43,12 +43,16 @@ Eventos: Javascript, :hover (Ejemplo con top)
 
 ### Elementos posicionados	
 
-1. relative
-2. absolute
-3. fixed
-4. sticky
+1. [relative](relative.md)
+2. [absolute](absolute.md)
+3. [fixed](fixed.md)
+4. [sticky](sticky.md)
 
-#### Propiedades
+### Superposición
+
+[z-index](z-index.md)
+
+### Propiedades
 Todo elemento posicionado (NO FUNCIONA CON static) adquieren automáticamente cuatro propiedades nuevas (coordenadas):
 			
 - top (coordenada superior)
